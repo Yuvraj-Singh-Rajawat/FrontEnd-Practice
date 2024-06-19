@@ -13,6 +13,11 @@
             <input type="text" id="password" placeholder="Password">
             <img id="copyBtn" src="images/copy.png" alt="">
         </div>
+        <ul id="list-container">
+            <li data-checked="false" onclick="toggleChecked(this)" id="number" checked = 'false'>Add Numbers</li>
+            <li data-checked="false" onclick="toggleChecked(this)" id="uppercase" checked = 'false'>Add Uppercase</li>
+            <li data-checked="false" onclick="toggleChecked(this)" id="Symbols" checked = 'false'>Add Symbols</li>
+        </ul>
         <button id="generateBtn"><img src="images/generate.png"> Generate Password</button>
     </div>
 
