@@ -1,4 +1,4 @@
-# 30 days 30 simple project Challenge
+# 30 Days 30 Simple Project Challenge
 
 ### Day 1
 ```
