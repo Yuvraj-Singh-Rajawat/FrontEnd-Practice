@@ -7,6 +7,6 @@ Weather Project
 
 ### Day 2
 ```
-To Do List 1
+To Do List
 ```
 
