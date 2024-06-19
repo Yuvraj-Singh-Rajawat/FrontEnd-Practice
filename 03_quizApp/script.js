@@ -48,7 +48,6 @@ let score = 0;
 function startQuiz(){
     currentQuestionIndex = 0;
     score = 0;
-    nextButton.innerHTML = "Next";
     showQuestion();
 }
 
@@ -102,7 +101,7 @@ function showScore(){
     nextButton.style.display = "block";
 }
 
-function handleNextButton(){
+function handleNextQuestion(){
     currentQuestionIndex++;
     if(currentQuestionIndex < questions.length){
         showQuestion(); 
@@ -114,7 +113,7 @@ function handleNextButton(){
 
 nextButton.addEventListener('click', ()=>{
     if(currentQuestionIndex < questions.length){
-        handleNextButton();
+        handleNextQuestion();
     }else{
         startQuiz();
     }
