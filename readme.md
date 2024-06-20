@@ -24,3 +24,8 @@ Random Password Generator
 ```
 Notes App
 ```
+
+### Day 6
+```
+Age Calculator
+```
