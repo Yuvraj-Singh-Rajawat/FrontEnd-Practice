@@ -29,3 +29,8 @@ Notes App
 ```
 Age Calculator
 ```
+
+### Day 7
+```
+Quote Generator
+```
