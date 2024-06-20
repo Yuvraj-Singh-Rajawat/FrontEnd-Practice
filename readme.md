@@ -34,3 +34,8 @@ Age Calculator
 ```
 Quote Generator
 ```
+
+### Day 8
+```
+QR Code Generator
+```
