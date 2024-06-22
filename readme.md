@@ -54,3 +54,8 @@ Music Player
 ```
 Stop Watch
 ```
+
+### Day 12
+```
+Calculator
+```
