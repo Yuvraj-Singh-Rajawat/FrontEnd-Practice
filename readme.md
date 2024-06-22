@@ -44,3 +44,8 @@ QR Code Generator
 ```
 Toast Notification
 ```
+
+### Day 10
+```
+Music Player
+```
