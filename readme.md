@@ -64,3 +64,8 @@ Calculator
 ```
 Popup Button
 ```
+
+### Day 14
+```
+Hide Password
+```
